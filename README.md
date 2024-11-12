@@ -9,6 +9,5 @@ The code was executed using Python 3.9.13 and on a virtual environment (virtuale
 
 - **Command-Line Interface**: main.py
 
-
-
+Dataset used for SemTab Challenge Round 1: https://zenodo.org/records/11031987 (SuperSemTab 24)
 
